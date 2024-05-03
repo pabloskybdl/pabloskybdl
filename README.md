@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Joansitoh/Joansitoh/blob/main/header.png](https://cdn.textstudio.com/output/sample/normal/7/4/6/2/pablo-logo-321-2647.png" />
+    <img src="https://cdn.textstudio.com/output/sample/normal/7/4/6/2/pablo-logo-321-2647.png" />
 </p>
 
 <p align="center">
