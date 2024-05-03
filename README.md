@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and other projects for Linux!!
+Hello! I'm Pablo, I've been programming!!
 </p>
 
 <h2 align="center">Technology Stack</h2>
@@ -43,27 +43,27 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 <h2 align="center">My Github Stats</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joansitoh&show_icons=true&hide=contribs&cache_seconds=86400&theme=chartreuse-dark" height="175px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joansitoh&theme=chartreuse-dark" height="175px">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Joansitoh&theme=github-green-purple&border=9F9FA3">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloskybdl&show_icons=true&hide=contribs&cache_seconds=86400&theme=chartreuse-dark" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloskybdl&theme=chartreuse-dark" height="175px">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pabloskybdl&theme=github-green-purple&border=9F9FA3">
 </p>
 
 <h2 align="center">My Contribution Graph</h2>
 <p align="center">
-  <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://github.com/pabloskybdl/pabloskybdl/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">Contact me on these links 🐦</h2>
 <br>
 
 <p align="center">
-<a href="mailto: joansitohprah@gmail.com">
+<a href="mailto: pabloskybdl@gmail.com">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in//">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
- <a href="https://twitter.com/joansiitohtv">
+ <a href="https://twitter.com/pab">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/joansiitohtv"/>
 </a>
 </p>
